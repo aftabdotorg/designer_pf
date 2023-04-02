@@ -20,7 +20,7 @@ header nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1em 0.2em;
+  padding: 1em 0.6em;
 }
 
 header nav img {
@@ -43,7 +43,7 @@ header nav ul li a {
   line-height: 30px;
 }
 
-header nav ul li:nth-child(1) {
+header nav ul li:nth-child(1) a {
   color: #21564b;
 }
 
